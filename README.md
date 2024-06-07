@@ -8,9 +8,9 @@
 ## 🚀 About Me
 My name is Faza and I'm from Indonesia!
 
-- 🎓 Third-year undergraduate student in Information System & Technology at Institut Teknologi Bandung\
-- 🔭 Interested in data science, artificial intelligence, machine learning, and software development\
-- :seedling: Currently exploring artifical intelligence & machine leaarning
+- 🎓 Third-year undergraduate student in Information System & Technology at Institut Teknologi Bandung
+- 🔭 Interested in data science, artificial intelligence, machine learning, and software development
+- :seedling: Currently exploring artifical intelligence & machine learning
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>

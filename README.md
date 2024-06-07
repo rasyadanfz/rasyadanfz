@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there&color=gradient&fontColor=ffffff&animation=fadeIn&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20there&color=gradient&fontColor=ffffff&animation=fadeIn&height=80"/>
 </p>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpbXowczkxaXpqMmQ0amF3dWowcDZsZnF6M2JqcGo1aTIza3BiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpbXowczkxaXpqMmQ0amF3dWowcDZsZnF6M2JqcGo1aTIza3BiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="140"/>
 </div>
 
 ## 🚀 About Me

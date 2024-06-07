@@ -31,10 +31,23 @@ My name is Faza and I'm from Indonesia!
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
 
+## :construction: Projects
+### Data Science, AI, and Machine Learning Projects
+- [Skim Lit (NLP)](https://github.com/rasyadanfz/skim-lit)
+- [Disaster Tweet Classification (NLP)](https://github.com/rasyadanfz/disaster-tweet-classification)
+- [Bulldozer Sale Price Regression](https://github.com/rasyadanfz/bulldozer-sale-price-regression)
+- [Electric Vehicle (EV) Car Price Regression](https://github.com/rasyadanfz/ev-car-prices-regression)
+- [Heart Disease Classification](https://github.com/rasyadanfz/heart-disease-classification)
+  
+### Software Engineering Projects
+- [HMIF APP Backend](https://github.com/hmif-itb/hmif-app-be)
+- [Wasche-waschen](https://github.com/rasyadanfz/Wasche-waschen)
+- [SPARTA HMIF Front-End](https://github.com/sparta-hmif/Web-Sparta-2022)
+- [Monolithic PHP App](https://github.com/rasyadanfz/monolith)
+- [Single Service Backend](https://github.com/rasyadanfz/single-service)
+
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rasyadanfz&theme=dark&background=000000)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyadanfz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :construction: Projects
-### Data Science, AI, and Machine Learning Projects
-### Software Engineering Projects
+

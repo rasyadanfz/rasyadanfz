@@ -41,6 +41,8 @@ My name is Faza and I'm from Indonesia!
   
 ### Software Engineering Projects
 - [HMIF APP Backend](https://github.com/hmif-itb/hmif-app-be)
+- [PlatePerfect Mobile App Front-end](https://github.com/rasyadanfz/plate-perfect)
+- [PlatePerfect Mobile App Back-end](https://github.com/rasyadanfz/plate-perfect-backend)
 - [Wasche-waschen](https://github.com/rasyadanfz/Wasche-waschen)
 - [SPARTA HMIF Front-End](https://github.com/sparta-hmif/Web-Sparta-2022)
 - [Monolithic PHP App](https://github.com/rasyadanfz/monolith)
